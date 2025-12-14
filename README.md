@@ -63,13 +63,17 @@ Usage
 			• Troughs: Redshift values where galaxy density is below background (destructive interference)
 			• Wavelength: Distance between consecutive peaks (in Mpc)
 			• Statistical Significance: Sigma values indicating how significant the patterns are
-	~~Included Dataset~~
-		~~The repository includes The_One_To_View_Them_All.csv containing:~~
+			
+~~Included Dataset~~
+	
+~~The repository includes The_One_To_View_Them_All.csv containing:~~
 			~~• 500,000 galaxies from SDSS DR18~~
 			~~• Redshift range: z = 0.15 to 0.65~~
 			~~• Sky coverage: Complete SDSS spectroscopic survey footprint~~
 			~~• Columns: objID, ra, dec, z, type~~
-		~~This dataset represents all SDSS spectroscopic galaxies in the specified redshift range and provides a comprehensive view of cosmic structure for GWCSM analysis.~~ *FILE IS 40MB, If I Figure Out How To Bypass GITHUB's 25MB Limit I Will Upload, Till Then See Next Section For Obtaining CSV*
+		~~This dataset represents all SDSS spectroscopic galaxies in the specified redshift range and provides a comprehensive view of cosmic structure for GWCSM analysis.~~ 
+		
+		*FILE IS 40MB, If I Figure Out How To Bypass GITHUB's 25MB Limit I Will Upload, Till Then See Next Section For Obtaining CSV*
 
 Getting Additional Data
 
